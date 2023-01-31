@@ -87,7 +87,7 @@ Execute the program
 ```
 
 # OUPUT
-![output](finaltt.jfif)
+![output](finaltt.1.jfif)
 
 # RESULT
 Timetable created successfully with the help of HTML.

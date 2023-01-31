@@ -28,7 +28,7 @@ Execute the program
             </tr>
             <tr>
                 <td align="center" colspan="3"> Reference Num </td>
-                <td align="center"> 22008172 </td>
+                <td align="center"> 22000757 </td>
             </tr>
             <tr>
                 <th width="10%"> DAYS </th>
@@ -87,7 +87,7 @@ Execute the program
 ```
 
 # OUPUT
-![output](ttt.jfif)
+![output](finaltt.jfif)
 
 # RESULT
 Timetable created successfully with the help of HTML.
